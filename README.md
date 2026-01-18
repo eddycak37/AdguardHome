@@ -53,6 +53,7 @@ After putting the IP address given into your search bar, it will put you into th
 2. You can click on Settings again and go to DNS settings. That's where you will put the Upstream DNS servers that you wish to have. There are already some pre-established and they work fine. However, you can still search online for other Upstream DNS servers and input them there.
 
 Here's how mine is configurated:
+
 ![Upstream DNS Servers](adguard_dnsupstream.PNG)
 
 > [!TIP]
@@ -72,6 +73,7 @@ Again in the Settings, go to Encryption settings. There you can enable Encryptio
 Still in Settings, click on Client settings. In this page, you can register your clients/devices. You can name them, tag them and configure settings only for them such as Settings, Blocked services, Pause service blocking and Upstream DNS servers. What I mean is if you wish for some devices to have different configuration other than what you put in your Adguard.
 
 Here's how my client settings look like:
+
 ![Client settings](adguard_clientsettings.PNG)
 
 ### Filters
@@ -79,6 +81,7 @@ Here's how my client settings look like:
 Finally, click on Filters and go to DNS Blocklists. There you can add rules, so Adguard will only block the domains that you configured. When you add a blocklist, you can either choose from a list or add a custom list. In my case, I went with the simple configuration and chose a couple of blocklists from the given list.
 
 Here's my blocklist:
+
 ![DNS Blocklists](adguard_dnsblocklists.PNG)
 
 ## Conclusion
@@ -90,5 +93,5 @@ Now that everything is configured, it's time to setup your devices so they use y
 > [!TIP]
 > If you click on Router, it will tell you how to configure your router so you won't need to manually configure each devices. As long as they're all connected to your router, but I believe that's already the case.
 
-<h1 align="center"> That's it for how I installed and configured Adguard Home </h1>
+<h1 align="center"> That's how I installed and configured my Adguard Home </h1>
 
