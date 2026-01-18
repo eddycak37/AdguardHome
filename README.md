@@ -14,12 +14,12 @@ For the explanation of how I installed/configured Adguard Home, I'll keep it ver
 
 - Installation
 - Configuration
- - General settings
- - DNS Settings
- - Encryption settings
- - Client settings
- - DNS Blocklists
- - Conclusion
+  - General settings
+  - DNS Settings
+  - Encryption settings
+  - Client settings
+  - DNS Blocklists
+- Conclusion
 
 ## Installation
 
@@ -81,7 +81,7 @@ Finally, click on Filters and go to DNS Blocklists. There you can add rules, so 
 Here's my blocklist:
 ![DNS Blocklists](adguard_dnsblocklists.PNG)
 
-### Conclusion
+## Conclusion
 
 Now that everything is configured, it's time to setup your devices so they use your Adguard. You can actually click on Setup Guide and the page will tell you how to configure your devices. It's very quick and easy.
 
