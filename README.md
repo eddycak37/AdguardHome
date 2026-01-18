@@ -4,7 +4,7 @@
 <img src="https://aussedatlo.me/ressources/posts/10-adguard-home-in-docker/img-banner.jpg" width= 600"/>
 </p>
 
-The reason I installed [Adguard Home](https://adguard.com/en/adguard-home/overview.html) was mainly to read my manhuas on my Ipad without having adds popping up there and there whenever I clicked on the screen. Of course it help with browsing online, but manhuas was my top priority. 
+The reason I installed [Adguard Home](https://adguard.com/en/adguard-home/overview.html) was mainly to read my manhuas on my Ipad without having ads popping up there and there whenever I clicked on the screen. Of course it help with browsing online, but manhuas was my top priority. 
 
 Lot of people will say that [Pi-Hole](https://pi-hole.net/) would've been a great choice, but since I was using Adguard extension on Firefox before, I was already in its ecosystem. It is to say that I could've just try Pi-Hole too, but sometimes I like to keep things simple... Until it came to the configuration setup. I'll be honest, I've had to watch a lot of youtube videos and read through a lot of reddit threads to be able to somehow configure something that works.
 
