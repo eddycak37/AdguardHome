@@ -61,7 +61,7 @@ Here's how mine is configurated:
 Now, if you scroll down, you can read all the options given, but I left most of them as it is. Unless you really understand them and know what you're doing, it is best to leave them be. The one you can change is the Blocking mode. Change it to Null IP, because if the request is blocked, it will only be made once. Still, search online to get a better understanding. Other than that one, I didn't touch anything else.
 
 > [!CAUTION]
-> Before playing with the Advanced settings, make sure to know what you're doing. Even I barely understand some of them, so that's why I prefer to leave some of them default.
+> Before playing with the Advanced settings, make sure to know what you're doing. Even I barely understand some of them, so that's why I prefer to leave them default.
 
 ### Encryption settings
 
