@@ -93,5 +93,5 @@ Now that everything is configured, it's time to setup your devices so they use y
 > [!TIP]
 > If you click on Router, it will tell you how to configure your router so you won't need to manually configure each devices. As long as they're all connected to your router, but I believe that's already the case.
 
-<h1 align="center"> That's how I installed and configured my Adguard Home </h1>
+So, that's how I installed and configured my Adguard Home
 
